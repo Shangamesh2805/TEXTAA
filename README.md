@@ -42,7 +42,7 @@ We used NLP in education field  to improve the vocabulary skills of the students
     
 **WORK FLOW:**
 
-• Installl all the above mentioned libaries into the python environment.
+• Install all the above mentioned libaries into the python environment.
 
 • Then feed the project first with the audio input and text input from the user/student.
 
